@@ -1,0 +1,16 @@
+Jul 25, 2018 9:36:41 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR12272
+Jul 26, 2018 12:11:55 AM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR18525
+Jul 26, 2018 12:11:58 AM client.ManagerClient main
+INFO: LVL 1MTL 0DDO 0
+Jul 26, 2018 9:41:13 PM client.ManagerClient main
+INFO: RecordID sr10000 successfully transfered
+Jul 26, 2018 9:41:16 PM client.ManagerClient main
+INFO: LVL 1 MTL 1
+Jul 26, 2018 10:03:27 PM client.ManagerClient main
+INFO: LVL 1 MTL 0 DDO 0
+Jul 26, 2018 10:03:39 PM client.ManagerClient main
+INFO: RecordID tr10000 successfully transfered
+Jul 26, 2018 10:03:45 PM client.ManagerClient main
+INFO: LVL 0 MTL 1 DDO 0

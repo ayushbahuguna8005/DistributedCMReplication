@@ -1,0 +1,8 @@
+Jul 26, 2018 3:54:18 PM serverpackage.FrontEndServer createTRecord
+INFO: First Name and Last Name can not be empty and can not contain special symbol by mtl1111
+Jul 26, 2018 5:00:50 PM serverpackage.FrontEndServer createTRecord
+WARNING: Phone number must be 10 digit number by mtl1234
+Jul 26, 2018 5:51:46 PM serverpackage.FrontEndServer createSRecord
+INFO: Incorrect input for status. For active type 1 and for inactive type 2 by mtl1234
+Jul 26, 2018 9:39:26 PM serverpackage.FrontEndServer createSRecord
+INFO: Incorrect input for status. For active type 1 and for inactive type 2 by mtl1234

@@ -1,0 +1,54 @@
+Jul 25, 2018 4:10:43 PM client.ManagerClient main
+INFO: Request coming till Front End
+Jul 25, 2018 10:27:44 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR17525
+Jul 26, 2018 12:37:16 AM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR19951
+Jul 26, 2018 3:54:28 AM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR13917
+Jul 26, 2018 4:02:10 AM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR12615
+Jul 26, 2018 4:07:08 AM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR16502
+Jul 26, 2018 4:10:01 AM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR13776
+Jul 26, 2018 4:13:57 AM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR28931
+Jul 26, 2018 3:11:18 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR26118
+Jul 26, 2018 3:12:30 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR22797
+Jul 26, 2018 3:26:27 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10000
+Jul 26, 2018 3:39:06 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10000
+Jul 26, 2018 3:39:35 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10001
+Jul 26, 2018 3:43:34 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10000
+Jul 26, 2018 3:43:56 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10001
+Jul 26, 2018 3:47:58 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10000
+Jul 26, 2018 3:54:18 PM client.ManagerClient main
+INFO: First Name and Last Name can not be empty and can not contain special symbol
+Jul 26, 2018 3:54:34 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10000
+Jul 26, 2018 3:56:17 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10001
+Jul 26, 2018 3:59:03 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10000
+Jul 26, 2018 4:40:32 PM client.ManagerClient main
+INFO: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><BullyMessagePacket>    <isLeader>false</isLeader>    <messageType>Heartbeat</messageType>    <nodeID>0</nodeID></BullyMessagePacket>
+Jul 26, 2018 4:52:35 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10000
+Jul 26, 2018 8:23:02 PM client.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR10000
+Jul 26, 2018 8:23:07 PM client.ManagerClient main
+INFO: MTL 1 LVL 0
+Jul 26, 2018 8:29:14 PM client.ManagerClient main
+INFO: Student record successfully inserted. The record id of the new record is SR10000
+Jul 26, 2018 8:29:16 PM client.ManagerClient main
+INFO: MTL 1 LVL 0
+Jul 26, 2018 8:29:34 PM client.ManagerClient main
+INFO: RecordID SR10000 successfully transfered

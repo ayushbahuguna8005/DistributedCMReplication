@@ -1,0 +1,24 @@
+Jul 26, 2018 12:49:30 AM client.ManagerClient main
+INFO: Failed login attempt by mtl111 as it does not match the format of a valid Manager ID
+Jul 26, 2018 3:54:08 AM client.ManagerClient main
+INFO: Failed login attempt by mtl as it does not match the format of a valid Manager ID
+Jul 26, 2018 3:32:08 PM client.ManagerClient main
+INFO: Failed login attempt by tml1234 as it does not match the format of a valid Manager ID
+Jul 26, 2018 4:01:34 PM client.ManagerClient main
+INFO: Failed login attempt by mtl123 as it does not match the format of a valid Manager ID
+Jul 26, 2018 4:01:35 PM client.ManagerClient main
+INFO: Failed login attempt by qwe as it does not match the format of a valid Manager ID
+Jul 26, 2018 4:01:35 PM client.ManagerClient main
+INFO: Failed login attempt by asd as it does not match the format of a valid Manager ID
+Jul 26, 2018 4:03:52 PM client.ManagerClient main
+INFO: Failed login attempt by tl1234 as it does not match the format of a valid Manager ID
+Jul 26, 2018 4:37:50 PM client.ManagerClient main
+INFO: Failed login attempt by mtl111 as it does not match the format of a valid Manager ID
+Jul 26, 2018 4:57:16 PM client.ManagerClient main
+INFO: Failed login attempt by mtl123 as it does not match the format of a valid Manager ID
+Jul 26, 2018 5:00:38 PM client.ManagerClient main
+INFO: Failed login attempt by mtl12134 as it does not match the format of a valid Manager ID
+Jul 26, 2018 5:00:38 PM client.ManagerClient main
+INFO: Failed login attempt by qwe as it does not match the format of a valid Manager ID
+Jul 26, 2018 10:59:09 PM client.ManagerClient main
+INFO: Failed login attempt by mtl123 as it does not match the format of a valid Manager ID

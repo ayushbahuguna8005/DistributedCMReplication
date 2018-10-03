@@ -1,0 +1,12 @@
+Jul 26, 2018 9:19:13 PM serverpackage.BullyProcess createSRecord
+INFO: Student record successfully inserted. The record id of the new record is SR10000 by null
+Jul 26, 2018 9:45:23 PM serverpackage.BullyProcess createSRecord
+INFO: Student record successfully inserted. The record id of the new record is SR10000 by null
+Jul 26, 2018 9:46:18 PM serverpackage.ErrorMessages getNoRecordFoundError
+INFO: Record with record id sr10001 is not found in the mtl server.  by ddo1234
+Jul 26, 2018 9:49:15 PM serverpackage.BullyProcess transferRecord
+INFO: Record with record id sr10000 successfully deleted as a result of transfer by ddo1234
+Jul 26, 2018 9:49:15 PM serverpackage.BullyProcess transferRecord
+INFO: Student record successfully inserted. The record id of the new record is SR10002 by ddo1234
+Jul 26, 2018 9:50:04 PM serverpackage.BullyProcess createSRecord
+INFO: Student record successfully inserted. The record id of the new record is SR10001 by null
