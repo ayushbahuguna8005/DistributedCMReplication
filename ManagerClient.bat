@@ -1,1 +1,0 @@
-start java client.ManagerClient -ORBInitialPort 1050 -ORBInitialHost localhost
